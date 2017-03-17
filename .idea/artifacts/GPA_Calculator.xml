@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GPA Calculator">
+    <output-path>$PROJECT_DIR$/out/artifacts/GPA_Calculator</output-path>
+    <root id="archive" name="GPA Calculator.jar" />
+  </artifact>
+</component>
